@@ -1,2 +1,1 @@
-# myrace42-media
-MyRace42 인스타 릴스 영상 호스팅 전용 — Releases 자산으로만 쓴다 (코드 없음)
+MyRace42 인스타 릴스 영상 호스팅 전용 레포입니다 — 코드는 없고 Releases 자산으로만 씁니다 (public 이어야 Meta 가 인증 없이 영상을 가져갈 수 있습니다).
